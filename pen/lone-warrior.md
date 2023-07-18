@@ -1,5 +1,7 @@
+---
 title: Lone Warrior
 base: /
+---
 
 # Lone Warrior
 
