@@ -1,3 +1,6 @@
+title: Lone Warrior
+base: /
+
 # Lone Warrior
 
 18th July 2023
