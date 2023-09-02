@@ -1,4 +1,4 @@
-# Leg One Quard Focus
+# Leg Two Quard Focus
 
 **1. Leg Extension**
 
