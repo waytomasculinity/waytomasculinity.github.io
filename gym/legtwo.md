@@ -1,9 +1,8 @@
 # Leg Two Quard Focus
 
 **1. Leg Extension**
+
 ![LEG-EXTENSION](https://github.com/articulativeman/articulativeman.github.io/assets/139848332/71c63a44-def3-4b7d-a6ca-d3e36bdd0ae1)
-
-
 
 
 **2. Regular Squats**
@@ -14,7 +13,6 @@
 
 **3. Leg Press**
 ![Leg-Press](https://github.com/articulativeman/articulativeman.github.io/assets/139848332/808c96d4-f5a0-4d41-b51d-f8ccd5a57a80)
-
 
 
 **4. Standing Curl Raises**
