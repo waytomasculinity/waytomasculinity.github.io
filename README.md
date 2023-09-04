@@ -1,1 +1,0 @@
-# articulativeman.github.io
